@@ -9,3 +9,4 @@ Semantic Search refers to searching not by exact keyword matching, but by unders
 For doing Semantic Search internally, it uses the concept of Embedding.
 
 Embedding is the numerical representation of a text.
+To learn about Vector Embedding log on to (https://www.pinecone.io/learn/vector-database/)
